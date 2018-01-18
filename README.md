@@ -13,3 +13,4 @@ export AWS_SECRET_ACCESS_KEY=
 terraform apply (answer "yes" when prompted).
 
 
+if you would like to see graph of your deployment issue command like this  terraform graph | dot -Tpng > graph.png (graphviz is required)
